@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Quadri Kobiowu</h1>
-<h3 align="center">A passionate M.E.R.N Fullstack Developer from Nigeria</h3>
+<h1 align="center">Hi there 👋, I'm Quadri Kobiowu</h1>
+<h3 align="center">Passionate M.E.R.N Fullstack Developer | Open Source Contributor</h3>
+
+- 🔭 I’m currently working on [Human Resources Management System](https://github.com/kobiowuquadri/HRMS)
+
+- 🌱 I’m always learning and exploring new technologies.
+
+- 👨‍💻 Explore more about my projects on my [portfolio](https://my-portfolio-rho-orcin-62.vercel.app/)
+
+- 💬 Ask me about **Web Development, JavaScript, React, Node.js, MongoDB, and more!**
+
+- 📫 Connect with me via email at **kobiowuq@gmail.com**
+
+- ⚡ Fun fact: **Writing code is not just my job, it's my passion!**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kobiowuquadri&label=Profile%20views&color=0e75b6&style=flat" alt="kobiowuquadri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kobiowuquadri" alt="kobiowuquadri" /></a> </p>
 
-- 🔭 I’m currently working on [Human Resources Management System](https://github.com/kobiowuquadri/HRMS)
-
-- 🌱 I’m currently learning **Typescript**
-
-- 🤝 I’m looking for help with the [Bank App I started few months](https://github.com/kobiowuquadri/BankApp)
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-rho-orcin-62.vercel.app/](https://my-portfolio-rho-orcin-62.vercel.app/)
-
-- 💬 Ask me about **ReactJS, EpressJS, MongoDB, Bootstrap**
-
-- 📫 How to reach me **kobiowuq@gmail.com**
-
-- ⚡ Fun fact **Writing codes is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
