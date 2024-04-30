@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Quadri Kobiowu
 ### Passionate M.E.R.N Fullstack Developer | Open Source Contributor
 
-- 🔭 I’m currently working on [Human Resources Management System](https://github.com/kobiowuquadri/HRMS)
+- 🔭 I’m currently working on Real Estate Web App.
 - 🌱 I’m always learning and exploring new technologies.
 - 👨‍💻 Explore more about my projects on my [portfolio](https://my-portfolio-rho-orcin-62.vercel.app/)
 - 💬 Ask me about **Web Development, JavaScript, React, Node.js, MongoDB, and more!**
