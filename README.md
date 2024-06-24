@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Quadri Kobiowu
-### Passionate Fullstack and Backend Engineer | Open Source Contributor
+### Dynamic MERN Fullstack Developer with a Backend Focus | Creative Open Source Contributor
 
-![Anime Developer](https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif)
+<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Anime Developer" width="300" height="200" />
 
 - 🔭 I’m currently working on a Real Estate Web App.
 - 🌱 I’m always learning and exploring new technologies to enhance my skill set.
