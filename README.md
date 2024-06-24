@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Quadri Kobiowu
-### Dynamic MERN Fullstack Developer with a Backend Focus | Creative Open Source Contributor
+## Dynamic MERN Fullstack Developer with a Backend Focus | Creative Open Source Contributor
 
 <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Anime Developer" width="300px"/>
 
