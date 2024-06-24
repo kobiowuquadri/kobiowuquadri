@@ -1,11 +1,19 @@
 # Hi there 👋, I'm Quadri Kobiowu
-### Passionate M.E.R.N Fullstack Developer | Open Source Contributor
+### Passionate Fullstack and Backend Engineer | Open Source Contributor
 
-- 🔭 I’m currently working on Real Estate Web App.
-- 🌱 I’m always learning and exploring new technologies.
-- 👨‍💻 Explore more about my projects on my [portfolio](https://my-portfolio-rho-orcin-62.vercel.app/)
-- 💬 Ask me about **Web Development, JavaScript, React, Node.js, MongoDB, and more!**
-- 📫 Connect with me via email at **kobiowuq@gmail.com**
+![Anime Developer]([https://i.imgur.com/k4rO7j2.png](https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif)) <!-- Replace this link with the URL of your chosen anime developer image -->
+
+- 🔭 I’m currently working on a Real Estate Web App.
+- 🌱 I’m always learning and exploring new technologies to enhance my skill set.
+- 👨‍💻 Explore more about my projects on my [portfolio](https://my-portfolio-rho-orcin-62.vercel.app/).
+- 💬 Ask me about **Web Development, JavaScript, React, Node.js, MongoDB, PostgreSQL, and more!**
+- 📫 Connect with me via email at **kobiowuq@gmail.com**.
+- 🛠️ Skilled in creating scalable and efficient backend solutions using **Node.js**, **Express.js**, **MongoDB**, and **PostgreSQL**.
+- 🌐 Experienced in developing fullstack applications with the **MERN stack** (MongoDB, Express.js, React, Node.js).
+- 📈 Passionate about optimizing web performance and implementing best practices in coding.
+- 💡 Enthusiastic about contributing to open-source projects and collaborating with other developers.
+- 🤝 Open to freelance projects and collaboration opportunities.
+- 📚 Always excited to share knowledge and mentor aspiring developers.
 - ⚡ Fun fact: **Writing code is not just my job, it's my passion!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kobiowuquadri&label=Profile%20views&color=0e75b6&style=flat" alt="kobiowuquadri" /> </p>
