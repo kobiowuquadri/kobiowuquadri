@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Quadri Kobiowu
 ### Passionate Fullstack and Backend Engineer | Open Source Contributor
 
-![Anime Developer]([https://i.imgur.com/k4rO7j2.png](https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif)) <!-- Replace this link with the URL of your chosen anime developer image -->
+![Anime Developer](https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif)
 
 - 🔭 I’m currently working on a Real Estate Web App.
 - 🌱 I’m always learning and exploring new technologies to enhance my skill set.
