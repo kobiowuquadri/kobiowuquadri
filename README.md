@@ -6,7 +6,7 @@
   
   [![Profile Views](https://komarev.com/ghpvc/?username=kobiowuquadri&label=Profile%20views&color=64FFDA&style=flat)](https://github.com/kobiowuquadri)
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://www.buymeacoffee.com/quarikobiowu)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-64FFDA)](https://my-portfolio-rho-orcin-62.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-64FFDA)](https://quadrikobiowu.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/quadri-kobiowu-955313233)
 </div>
 
