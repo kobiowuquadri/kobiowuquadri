@@ -1,125 +1,89 @@
-# Hi there 👋, I'm Quadri Kobiowu
-## Dynamic MERN Fullstack Developer with a Backend Focus | Creative Open Source Contributor
+<div align="center">
+  <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Anime Developer" width="300px"/>
+  
+  # Hi there, I'm Quadri Kobiowu 👋
+  ### Chief Technical Officer at Nagida Foods | MERN Stack Expert | Technical Leader
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=kobiowuquadri&label=Profile%20views&color=64FFDA&style=flat)](https://github.com/kobiowuquadri)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://www.buymeacoffee.com/quarikobiowu)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-64FFDA)](https://my-portfolio-rho-orcin-62.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/quadri-kobiowu-955313233)
+</div>
 
-<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Anime Developer" width="300px"/>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on a Real Estate Web App.
-- 🌱 I’m always learning and exploring new technologies to enhance my skill set.
-- 👨‍💻 Explore more about my projects on my [portfolio](https://my-portfolio-rho-orcin-62.vercel.app/).
-- 💬 Ask me about **Web Development, JavaScript, React, Node.js, MongoDB, PostgreSQL, and more!**
-- 📫 Connect with me via email at **kobiowuq@gmail.com**.
-- 🛠️ Skilled in creating scalable and efficient backend solutions using **Node.js**, **Express.js**, **MongoDB**, and **PostgreSQL**.
-- 🌐 Experienced in developing fullstack applications with the **MERN stack** (MongoDB, Express.js, React, Node.js).
-- 📈 Passionate about optimizing web performance and implementing best practices in coding.
-- 💡 Enthusiastic about contributing to open-source projects and collaborating with other developers.
-- 🤝 Open to freelance projects and collaboration opportunities.
-- 📚 Always excited to share knowledge and mentor aspiring developers.
-- ⚡ Fun fact: **Writing code is not just my job, it's my passion!**
+> "Writing code is not just my job, it's my passion!"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kobiowuquadri&label=Profile%20views&color=0e75b6&style=flat" alt="kobiowuquadri" /> </p>
+As a CTO and technical leader, I specialize in building scalable applications and mentoring development teams. My expertise spans the entire MERN stack, with a particular focus on backend architecture and system design.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kobiowuquadri" alt="kobiowuquadri" /></a> </p>
+- 🚀 Currently leading technology strategy at [Nagida Foods](https://nagidafoods.com)
+- 🌱 Always exploring new technologies and best practices
+- 👥 Passionate about mentoring and growing engineering teams
+- 🤝 Open to collaboration on innovative projects
+- 📫 Reach me at: **kobiowuq@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/quadri-kobiowu-955313233/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quadri-kobiowu-955313233/" height="30" width="40" style="font-size: 2rem;" />
-  </a>
-</p>
+<details>
+<summary>🎯 Current Focus</summary>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="width: 4rem; height: 4rem;" />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" style="width: 4rem; height: 4rem;" />
-  </a>
-</p>
+- Developing a Real Estate Web Application
+- Scaling microservices architecture
+- Mentoring aspiring developers
+- Contributing to open-source projects
+</details>
 
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Support:</h3>
-<p>
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kobiowuquadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobiowuquadri&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kobiowuquadri&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quadri-kobiowu-955313233)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kobiowuquadri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-rho-orcin-62.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kobiowuq@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
   <a href="https://www.buymeacoffee.com/quarikobiowu">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/quarikobiowu" style="font-size: 2rem;" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kobiowuquadri&show_icons=true&locale=en&layout=compact" alt="kobiowuquadri" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kobiowuquadri&show_icons=true&locale=en" alt="kobiowuquadri" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kobiowuquadri&" alt="kobiowuquadri" />
-</p>
+</div>
