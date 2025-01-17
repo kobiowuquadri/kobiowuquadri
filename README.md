@@ -99,9 +99,11 @@ As a CTO and technical leader, I specialize in building scalable applications an
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kobiowuquadri&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
+
 
 ## 📫 Let's Connect
 
