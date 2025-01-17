@@ -95,7 +95,7 @@ As a CTO and technical leader, I specialize in building scalable applications an
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kobiowuquadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobiowuquadri&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kobiowuquadri&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
