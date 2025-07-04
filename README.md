@@ -2,7 +2,7 @@
   <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Anime Developer" width="300px"/>
   
   # Hi there, I'm Quadri Kobiowu 👋  
-  ### Software Engineer | MERN Stack Specialist | Technical Leader
+  ### Software Engineer
   
   [![Profile Views](https://komarev.com/ghpvc/?username=kobiowuquadri&label=Profile%20views&color=64FFDA&style=flat)](https://github.com/kobiowuquadri)
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://www.buymeacoffee.com/quarikobiowu)
