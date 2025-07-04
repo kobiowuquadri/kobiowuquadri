@@ -123,8 +123,6 @@ I'm a dedicated Software Engineer with a strong foundation in the MERN stack. I 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kobiowuq@gmail.com)
 </div>
 
----
-
 <div align="center">
   <a href="https://www.buymeacoffee.com/quarikobiowu">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
