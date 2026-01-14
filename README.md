@@ -16,7 +16,7 @@
 
 I'm a **software engineer** who loves building impactful products, solving real-world problems, and leading teams toward clean, scalable solutions. My toolbox spans across various technologies and platforms — web, mobile, backend, databases, and cloud infrastructure.
 
-- 🚀 Currently building solutions at [Nagida Foods](https://nagidafoods.com)
+- 🚀 Currently building solutions at [Nagida Foods](https://masteringbackend.com/)
 - 📱 Experienced in building both web and mobile apps (React, React Native)
 - 📘 Currently learning: Go (Golang) for systems/backend engineering
 - 👥 Passionate about mentoring, team collaboration, and technical leadership
@@ -26,7 +26,7 @@ I'm a **software engineer** who loves building impactful products, solving real-
 <details>
 <summary>🎯 Current Focus</summary>
 
-- Building a Real Estate Web Application  
+- Building a Chrome Extention
 - Expanding mobile development with React Native  
 - Learning Go for high-performance backend services  
 - Scaling microservices and CI/CD pipelines  
