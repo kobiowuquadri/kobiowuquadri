@@ -2,7 +2,7 @@
   <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Anime Developer" width="300px"/>
   
   # Hi there, I'm Quadri Kobiowu 👋  
-  ### Software Engineer | Problem Solver | Tech Generalist
+  ### Software Engineer | Backend-Focused | Systems Thinker
   
   [![Profile Views](https://komarev.com/ghpvc/?username=kobiowuquadri&label=Profile%20views&color=64FFDA&style=flat)](https://github.com/kobiowuquadri)
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://www.buymeacoffee.com/quarikobiowu)
@@ -10,29 +10,37 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/quadri-kobiowu-955313233)
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-> "Writing code is not just my job, it's my passion."
+> "I don't just write code — I engineer scalable systems."
 
-I'm a **software engineer** who loves building impactful products, solving real-world problems, and leading teams toward clean, scalable solutions. My toolbox spans across various technologies and platforms — web, mobile, backend, databases, and cloud infrastructure.
+I'm a **Software Engineer** with 4+ years of experience designing and building secure, scalable, and production-ready web and mobile applications.
 
-- 🚀 Currently building solutions at [Mastering Backend](https://masteringbackend.com/)
-- 📱 Experienced in building both web and mobile apps (React, React Native)
-- 📘 Currently learning: Go (Golang) for systems/backend engineering
-- 👥 Passionate about mentoring, team collaboration, and technical leadership
-- 🤝 Open to freelance gigs, remote roles, or collaboration opportunities
+My expertise spans backend architecture, RESTful APIs, database design, performance optimization, and frontend integration. I focus on writing clean, maintainable code while aligning technical solutions with real business needs.
+
+- 🚀 Currently building production systems at **Mastering Backend**
+- 📱 Experienced in fullstack web & mobile development (React, React Native, Next.js)
+- ⚙️ Strong backend foundation (Node.js, Express, PostgreSQL, MongoDB, Redis)
+- 📘 Currently learning: Go (Golang) for high-performance backend systems
+- 👥 Passionate about mentoring, leadership, and system design
+- 🤝 Open to remote roles, backend engineering opportunities, and collaborations
 - 📫 Reach me: **kobiowuq@gmail.com**
 
 <details>
 <summary>🎯 Current Focus</summary>
 
-- Building a Chrome Extention
-- Expanding mobile development with React Native  
-- Learning Go for high-performance backend services  
-- Scaling microservices and CI/CD pipelines  
-- Mentoring junior developers  
-- Contributing to open-source and community projects
+- Building a production-ready Chrome Extension  
+- Designing scalable microservices architectures  
+- Deepening knowledge in Go & distributed systems  
+- Improving CI/CD pipelines & containerized deployments  
+- Mentoring junior engineers  
+- Contributing to open-source projects  
+
 </details>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -90,18 +98,32 @@ I'm a **software engineer** who loves building impactful products, solving real-
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobiowuquadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=kobiowuquadri&theme=tokyonight" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kobiowuquadri&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobiowuquadri&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kobiowuquadri&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kobiowuquadri&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kobiowuquadri&theme=tokyonight&no-frame=true&column=4" />
 </div>
+
+---
 
 ## 📫 Let's Connect
 
