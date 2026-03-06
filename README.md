@@ -102,10 +102,9 @@ My expertise spans backend architecture, RESTful APIs, database design, performa
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kobiowuquadri&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobiowuquadri&layout=compact&theme=tokyonight&langs_count=8" />
-</div>
+![](https://raw.githubusercontent.com/kobiowuquadri/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/kobiowuquadri/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 
@@ -122,6 +121,7 @@ My expertise spans backend architecture, RESTful APIs, database design, performa
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=kobiowuquadri&theme=tokyonight&column=4&no-frame=true&margin-w=15" />
 </div>
+
 ---
 
 ## 📫 Let's Connect
