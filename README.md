@@ -102,9 +102,9 @@ My expertise spans backend architecture, RESTful APIs, database design, performa
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/kobiowuquadri/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kobiowuquadri/github-stats-token/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/kobiowuquadri/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kobiowuquadri/github-stats-token/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 
