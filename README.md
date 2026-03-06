@@ -120,9 +120,8 @@ My expertise spans backend architecture, RESTful APIs, database design, performa
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kobiowuquadri&theme=tokyonight&no-frame=true&column=4" />
+  <img src="https://github-trophies.vercel.app/?username=kobiowuquadri&theme=tokyonight&column=4&no-frame=true&margin-w=15" />
 </div>
-
 ---
 
 ## 📫 Let's Connect
