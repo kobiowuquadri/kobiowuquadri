@@ -3,11 +3,11 @@
 </a>
 
 <p>
-  <a href="https://devquat.xyz"><img src="./assets/btn-portfolio.svg" alt="devquat.xyz" height="36" /></a>
-  <a href="https://linkedin.com/in/quadri-kobiowu-955313233"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="36" /></a>
-  <a href="mailto:kobiowuq@gmail.com"><img src="./assets/btn-email.svg" alt="kobiowuq@gmail.com" height="36" /></a>
-  <a href="https://devquat.xyz/blog"><img src="./assets/btn-blog.svg" alt="Engineering notes" height="36" /></a>
-  <a href="https://www.buymeacoffee.com/quarikobiowu"><img src="./assets/btn-coffee.svg" alt="Buy me a coffee" height="36" /></a>
+  <a href="https://devquat.xyz"><img src="./btn-portfolio.svg" alt="devquat.xyz" height="36" /></a>
+  <a href="https://linkedin.com/in/quadri-kobiowu-955313233"><img src="./btn-linkedin.svg" alt="LinkedIn" height="36" /></a>
+  <a href="mailto:kobiowuq@gmail.com"><img src="./btn-email.svg" alt="kobiowuq@gmail.com" height="36" /></a>
+  <a href="https://devquat.xyz/blog"><img src="./btn-blog.svg" alt="Engineering notes" height="36" /></a>
+  <a href="https://www.buymeacoffee.com/quarikobiowu"><img src="./btn-coffee.svg" alt="Buy me a coffee" height="36" /></a>
 </p>
 
 I like working on questions with consequences. What happens if a payment request arrives twice? Who can read a customer's data? How does the team know a worker has stopped?
