@@ -1,5 +1,5 @@
 <a href="https://devquat.xyz">
-  <img src="./assets/header.svg" alt="Quadri Kobiowu — Software Engineer" width="100%" />
+  <img src="./header.svg" alt="Quadri Kobiowu — Software Engineer" width="100%" />
 </a>
 
 <p>
@@ -14,7 +14,7 @@ I like working on questions with consequences. What happens if a payment request
 
 ## Engineering focus
 
-<img src="./assets/engineering-focus.svg" alt="Engineering focus: backend systems, platform security, Linux & infrastructure, web & mobile products" width="100%" />
+<img src="./engineering-focus.svg" alt="Engineering focus: backend systems, platform security, Linux & infrastructure, web & mobile products" width="100%" />
 
 ## Selected projects
 
