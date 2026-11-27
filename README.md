@@ -16,57 +16,6 @@ I like working on questions with consequences. What happens if a payment request
 
 <img src="./engineering-focus.svg" alt="Engineering focus: backend systems, platform security, Linux & infrastructure, web & mobile products" width="100%" />
 
-## Selected projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://devquat.xyz/project/myestateng"><img src="https://devquat.xyz/assets/estateng-C-vyyozr.png" alt="MyEstateNG" width="100%" /></a>
-      <br /><code>Backend Platform</code>
-      <h3><a href="https://devquat.xyz/project/myestateng">MyEstateNG</a></h3>
-      Estate management for gated communities in Nigeria. Backend for tenants, subscriptions, houses and guest logs.
-      <br /><br /><a href="https://devquat.xyz/project/myestateng">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://devquat.xyz/project/sandlink-marketplace"><img src="https://devquat.xyz/assets/sandlink-website-desktop-zW8P8oLd.png" alt="SandLink Marketplace" width="100%" /></a>
-      <br /><code>Mobile App</code>
-      <h3><a href="https://devquat.xyz/project/sandlink-marketplace">SandLink Marketplace</a></h3>
-      Construction-materials marketplace connecting vendors, buyers and logistics partners across Nigeria.
-      <br /><br /><a href="https://devquat.xyz/project/sandlink-marketplace">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://devquat.xyz/project/rekrutklin-mobile-app"><img src="https://devquat.xyz/assets/feature%20design-B7l-S774.png" alt="Rekrutklin Mobile App" width="100%" /></a>
-      <br /><code>Mobile App</code>
-      <h3><a href="https://devquat.xyz/project/rekrutklin-mobile-app">Rekrutklin</a></h3>
-      Clinical trial recruitment: pre-screening, eligibility, appointments, pipelines and video sessions.
-      <br /><br /><a href="https://devquat.xyz/project/rekrutklin-mobile-app">View project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://devquat.xyz/project/safenaija"><img src="https://devquat.xyz/assets/safanaija-DskqHdAc.png" alt="SafeNaija" width="100%" /></a>
-      <br /><code>Mobile App</code>
-      <h3><a href="https://devquat.xyz/project/safenaija">SafeNaija</a></h3>
-      Emergency response and personal safety: fast alerts, location sharing and trusted contacts.
-      <br /><br /><a href="https://devquat.xyz/project/safenaija">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://devquat.xyz/project/imprexitrak"><img src="https://devquat.xyz/assets/trak1-CiE39exs.png" alt="ImprexiTrak" width="100%" /></a>
-      <br /><code>Web Platform</code>
-      <h3><a href="https://devquat.xyz/project/imprexitrak">ImprexiTrak</a></h3>
-      Project tracking and workflow management for team coordination and delivery visibility.
-      <br /><br /><a href="https://devquat.xyz/project/imprexitrak">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://devquat.xyz/project/gfb-strategic-consulting-website"><img src="https://devquat.xyz/assets/gfb-website-hero-desktop-CLvWPMFA.png" alt="GFB Strategic Consulting website" width="100%" /></a>
-      <br /><code>Website</code>
-      <h3><a href="https://devquat.xyz/project/gfb-strategic-consulting-website">GFB Strategic Consulting</a></h3>
-      Corporate consulting website built from scratch, with dynamic content and a contact flow.
-      <br /><br /><a href="https://devquat.xyz/project/gfb-strategic-consulting-website">View project →</a>
-    </td>
-  </tr>
-</table>
-
 <a href="https://devquat.xyz/projects">View all 13 projects →</a>
 
 ## Recently
