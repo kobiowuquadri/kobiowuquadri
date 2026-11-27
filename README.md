@@ -26,7 +26,7 @@ I like working on questions with consequences. What happens if a payment request
 
 ## Toolbox
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,prisma,postgres,mongodb,redis,react,nextjs,flutter,linux,docker,nginx,aws,git&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,java,py,nodejs,nestjs,express,spring,fastapi,prisma,postgres,mysql,mongodb,redis,react,nextjs,flutter,html,css,tailwind,linux,bash,docker,kubernetes,nginx,aws,cloudflare,firebase,git,github,githubactions,postman,vercel,vscode,figma&perline=9&theme=dark" alt="Tech stack" />
 
 ## GitHub activity
 
